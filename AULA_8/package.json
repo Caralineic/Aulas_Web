@@ -1,0 +1,25 @@
+{
+  "name": "aulas_web",
+  "version": "1.0.0",
+  "description": "Teste comit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caralineic/Aulas_Web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caralineic/Aulas_Web/issues"
+  },
+  "homepage": "https://github.com/Caralineic/Aulas_Web#readme",
+  "dependencies": {
+    "@types/node": "^25.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
