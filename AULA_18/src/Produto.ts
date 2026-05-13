@@ -1,12 +1,12 @@
-import { fabricante } from "./Fabricante";
+import { Fabricante } from "./Fabricante";
 
 export class Produto{
     id: number;
     nome: string;
     preco: number;
-    fabricante: fabricante;
+    fabricante: Fabricante;
 
-    constructor(id: number, nome: string,preco: number, fabricante: fabricante){
+    constructor(id: number, nome: string,preco: number, fabricante: Fabricante){
         this.id = id;
         this.nome = nome;
         this.preco = preco;

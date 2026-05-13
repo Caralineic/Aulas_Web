@@ -1,4 +1,4 @@
-export class endereco{
+export class Endereco{
     cidade: string;
     pais: string;
 
